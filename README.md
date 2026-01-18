@@ -21,5 +21,5 @@ Full-stack developer with strong backend fundamentals, actively transitioning in
 **Others:** Firebase, Redux  
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-rangarajan&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-rangarajan&show_icons=true)
+![Top Languages]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikandan-rangarajan&show_icons=true&locale=en&layout=compact" alt="manikandan-rangarajan" /></p>
+![GitHub Stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikandan-rangarajan&show_icons=true&locale=en" alt="manikandan-rangarajan" /></p>
